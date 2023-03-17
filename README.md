@@ -2,8 +2,8 @@
 - 👀 I am interested in commercial development experience with the ability to relocate or remotely
 - 🌱 I’m currently learning JS, TS, React, Redux, HTML, CSS.
 - 📫 email: aniskamaksim@gmail.com
-some of my studies projects:
-simple todoLists creator. React/TS. https://aniskamaksim.github.io/Main_TODO/
+- some of my studies projects:
+- - simple todoLists creator. React/TS. https://aniskamaksim.github.io/Main_TODO/
 
 <!---
 aniskamaksim/aniskamaksim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
