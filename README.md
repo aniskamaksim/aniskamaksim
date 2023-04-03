@@ -6,8 +6,8 @@
 - some of my studies projects:
 - - message counter with message display: SOON
 - - simple counter with settings: SOON
-- - Chat simulation. React/TS. https://aniskamaksim.github.io/chat_imitation/
-- - simple todoLists creator. React/TS. https://aniskamaksim.github.io/Main_TODO/
+- - Chat simulation. React/TS. https://aniskamaksim.github.io/chat_simulation/
+- - TodoLists creator. React/TS. https://aniskamaksim.github.io/Main_TODO/
 
 <!---
 aniskamaksim/aniskamaksim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
