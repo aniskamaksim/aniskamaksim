@@ -1,8 +1,12 @@
-- 👋 Hi, I’m Maksim Aniska. I am 40 yo. And I am from Belarus. Unfortunately.
+- 👋 Hi, I’m Maksim Aniska. I am from Belarus. Unfortunately.
 - 👀 I am interested in commercial development experience with the ability to relocate or remotely
 - 🌱 I’m currently learning JS, TS, React, Redux, HTML, CSS.
 - 📫 email: aniskamaksim@gmail.com
+- LinkedIn: ...
 - some of my studies projects:
+- - message counter with message display: SOON
+- - simple counter with settings: SOON
+- - Chat simulation. React/TS. https://aniskamaksim.github.io/chat_imitation/
 - - simple todoLists creator. React/TS. https://aniskamaksim.github.io/Main_TODO/
 
 <!---
