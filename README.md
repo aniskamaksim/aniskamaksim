@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning JS, TS, React, Redux, HTML, CSS.
 - 📫 email: aniskamaksim@gmail.com
 - LinkedIn: ...
+- My CV: https://aniskamaksim.github.io/rsschool-cv/
 - some of my studies projects:
 - - message counter with message display: SOON
 - - simple counter with settings: SOON
