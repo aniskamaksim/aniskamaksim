@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Maksim Aniska. I am from Belarus. Unfortunately.
+- 👋 Hi, I’m Maksim Aniska.
 - 👀 I am interested in commercial development experience with the ability to relocate or remotely
 - 🌱 I’m currently learning JS, TS, React, Redux, HTML, CSS.
 - 📫 email: aniskamaksim@gmail.com
