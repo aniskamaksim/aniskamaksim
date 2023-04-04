@@ -6,7 +6,8 @@
 - My CV: https://aniskamaksim.github.io/rsschool-cv/
 - some of my studies projects:
 - **HTML - CSS - JS:**
-- - https://aniskamaksim.github.io/Plants
+- - Plants landing page https://aniskamaksim.github.io/Plants
+- - Online-zoo landing page https://aniskamaksim.github.io/online-zoo/
 - /~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/
 - **React - TypeScript:**
 - - Simple counter with settings: https://aniskamaksim.github.io/counter/
