@@ -5,7 +5,7 @@
 - LinkedIn: ...
 - My CV: https://aniskamaksim.github.io/rsschool-cv/
 - some of my studies projects:
-- - message counter with message display: SOON
+- - message counter with message display: https://aniskamaksim.github.io/messages_counter/
 - - simple counter with settings: SOON
 - - Chat simulation. React/TS. https://aniskamaksim.github.io/chat_simulation/
 - - TodoLists creator. React/TS. https://aniskamaksim.github.io/Main_TODO/
