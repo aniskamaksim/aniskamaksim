@@ -5,6 +5,10 @@
 - LinkedIn: https://www.linkedin.com/in/maksim-aniska-53572124a/
 - My CV: https://aniskamaksim.github.io/rsschool-cv/
 - some of my studies projects:
+- **HTML - CSS - JS:**
+- - https://aniskamaksim.github.io/Plants
+- /~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/
+- **React - TypeScript:**
 - - message counter with message display: https://aniskamaksim.github.io/messages_counter/
 - - simple counter with settings: https://aniskamaksim.github.io/counter/
 - - Chat simulation. React/TS. https://aniskamaksim.github.io/chat_simulation/
