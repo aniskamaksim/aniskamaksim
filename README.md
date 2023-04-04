@@ -9,10 +9,10 @@
 - - https://aniskamaksim.github.io/Plants
 - /~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/
 - **React - TypeScript:**
-- - message counter with message display: https://aniskamaksim.github.io/messages_counter/
-- - simple counter with settings: https://aniskamaksim.github.io/counter/
-- - Chat simulation. React/TS. https://aniskamaksim.github.io/chat_simulation/
-- - TodoLists creator. React/TS. https://aniskamaksim.github.io/Main_TODO/
+- - Simple counter with settings: https://aniskamaksim.github.io/counter/
+- - Message counter: https://aniskamaksim.github.io/messages_counter/
+- - Chat simulation: https://aniskamaksim.github.io/chat_simulation/
+- - TodoLists creator: https://aniskamaksim.github.io/Main_TODO/
 
 <!---
 aniskamaksim/aniskamaksim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
