@@ -6,6 +6,7 @@
 - My CV: https://aniskamaksim.github.io/rsschool-cv/
 - some of my studies projects:
 - **HTML - CSS - JS:**
+- - Travel landing page https://aniskamaksim.github.io/Travel/travel/
 - - Plants landing page https://aniskamaksim.github.io/Plants
 - - Online-zoo landing page https://aniskamaksim.github.io/online-zoo/
 - /~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/
