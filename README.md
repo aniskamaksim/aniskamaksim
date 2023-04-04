@@ -2,7 +2,7 @@
 - 👀 I am interested in commercial development experience with the ability to relocate or remotely
 - 🌱 I’m currently learning JS, TS, React, Redux, HTML, CSS.
 - 📫 email: aniskamaksim@gmail.com
-- LinkedIn: ...
+- LinkedIn: https://www.linkedin.com/in/maksim-aniska-53572124a/
 - My CV: https://aniskamaksim.github.io/rsschool-cv/
 - some of my studies projects:
 - - message counter with message display: https://aniskamaksim.github.io/messages_counter/
