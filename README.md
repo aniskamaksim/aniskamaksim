@@ -11,6 +11,7 @@ My CV: https://aniskamaksim.github.io/rsschool-cv/<br />
 - Plants landing page https://aniskamaksim.github.io/Plants
 - Online-zoo landing page https://aniskamaksim.github.io/online-zoo/
 - Simple TodoList creator https://aniskamaksim.github.io/clean-code-s1e1/
+- Momentum https://aniskamaksim.github.io/momentum_html/momentum/
  
 **React - TypeScript:**
 - Simple counter with settings: https://aniskamaksim.github.io/counter/
