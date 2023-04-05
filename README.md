@@ -5,20 +5,18 @@
 LinkedIn: https://www.linkedin.com/in/maksim-aniska-53572124a/<br />
 My CV: https://aniskamaksim.github.io/rsschool-cv/<br />
  
-**Some of my studies projects:**
+<ins>**Some of my studies projects:**</ins><br />
 **HTML - CSS - JS:**
 - Travel landing page https://aniskamaksim.github.io/Travel/travel/
 - Plants landing page https://aniskamaksim.github.io/Plants
 - Online-zoo landing page https://aniskamaksim.github.io/online-zoo/
 - Simple TodoList creator https://aniskamaksim.github.io/clean-code-s1e1/
-/~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/
  
 **React - TypeScript:**
 - Simple counter with settings: https://aniskamaksim.github.io/counter/
 - Message counter: https://aniskamaksim.github.io/messages_counter/
 - Chat simulation: https://aniskamaksim.github.io/chat_simulation/
 - TodoLists creator: https://aniskamaksim.github.io/Main_TODO/
-/~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/
   
 **JavaScript tasks:**
 - https://github.com/aniskamaksim/typical-arrays-problems
