@@ -10,6 +10,7 @@
 - - Travel landing page https://aniskamaksim.github.io/Travel/travel/
 - - Plants landing page https://aniskamaksim.github.io/Plants
 - - Online-zoo landing page https://aniskamaksim.github.io/online-zoo/
+- - Simple TodoList creator https://aniskamaksim.github.io/clean-code-s1e1/
 - /~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/
 - 
 - **React - TypeScript:**
