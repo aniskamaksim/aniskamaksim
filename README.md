@@ -14,10 +14,12 @@ My CV: https://aniskamaksim.github.io/rsschool-cv/<br />
 - Momentum https://aniskamaksim.github.io/momentum_html/momentum/
  
 **React - TypeScript:**
-- Simple counter with settings: https://aniskamaksim.github.io/counter/
 - Message counter: https://aniskamaksim.github.io/messages_counter/
 - Chat simulation: https://aniskamaksim.github.io/chat_simulation/
 - TodoLists creator: https://aniskamaksim.github.io/Main_TODO/
+
+**React - Redux - TypeScript:**
+- Simple counter with settings: https://aniskamaksim.github.io/counter/
   
 **JavaScript tasks:**
 - https://github.com/aniskamaksim/typical-arrays-problems
@@ -27,6 +29,8 @@ My CV: https://aniskamaksim.github.io/rsschool-cv/<br />
 - https://github.com/aniskamaksim/morse-decoder
 - https://github.com/aniskamaksim/reverse-int
 - https://github.com/aniskamaksim/human-readable-number
+
+**More on codwars:** https://www.codewars.com/users/aniskaMaksim
  
 <!---
 aniskamaksim/aniskamaksim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
