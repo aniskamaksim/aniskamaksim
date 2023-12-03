@@ -17,6 +17,7 @@ My CV: https://aniskamaksim.github.io/rsschool-cv/<br />
 - Message counter: https://aniskamaksim.github.io/messages_counter/
 - Chat simulation: https://aniskamaksim.github.io/chat_simulation/
 - TodoLists creator: https://aniskamaksim.github.io/Main_TODO/
+- Momentum: https://aniskamaksim.github.io/Momentum/
 
 **React - Redux - TypeScript:**
 - Simple counter with settings: https://aniskamaksim.github.io/counter/
